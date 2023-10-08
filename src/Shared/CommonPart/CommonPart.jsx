@@ -23,7 +23,7 @@ const CommonPart = () => {
   )}
 </div>
 
-<div className="bg-red-400 mt-0">
+<div className="bg-red-400 py-1">
   <div className="marquee-container">
     <p className="text-xl font-bold">"Exquisite jewelry for every occasion"</p>
     <p className="text-xl font-bold">"Discover timeless elegance in our collections"</p>

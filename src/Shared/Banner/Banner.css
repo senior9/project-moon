@@ -1,0 +1,21 @@
+/* Banner.css */
+
+.banner-container {
+    position: relative;
+}
+
+.banner-image {
+    width: 100%; /* Ensure the image takes up the full width of its container */
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%; /* Position the text in the vertical center */
+    left: 50%; /* Position the text in the horizontal center */
+    transform: translate(-50%, -50%); /* Center the text */
+    background-color: transparent; /* Add a semi-transparent background */
+    padding: 10px; /* Add padding for better readability */
+    border-radius: 5px; /* Optional: Add rounded corners to the text box */
+}
+
+

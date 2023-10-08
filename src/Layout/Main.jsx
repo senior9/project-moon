@@ -1,14 +1,15 @@
 import { Outlet } from "react-router-dom";
-import Navbar from "../Shared/Navbar/Navbar";
+
 import Footer from "../Shared/Footer/Footer";
 import CommonPart from "../Shared/CommonPart/CommonPart";
+import Header from "../Shared/Navbar/Header";
 
 
 const Main = () => {
     return (
         <div>
             <CommonPart/>
-            <Navbar/>
+            <Header/>
             <Outlet/>
             <Footer/>
         </div>
