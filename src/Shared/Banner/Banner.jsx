@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import banner from "../../assets/Banner-image.webp";
 import "./Banner.css"
 
@@ -13,7 +13,7 @@ const Banner = () => {
                 <p className='text-brown-50 text-5xl text-center font-bold uppercase my-3 leading-relaxed'>The Unpologetic Expression <br /> of you</p>
                 <p className='uppercase text-brown-300 text-xl text-center'>Live a life You Want. Be Unmistakeably You!</p>
                 <p className='text-center'>
-                <button className='btn-outline h-12 rounded-md m-2 bg-brown-300 text-xl font-semibold text-brown-50 w-60'>View Range</button>
+                <button className='btn-outline h-10  m-2 bg-brown-300 text-xl font-semibold text-brown-50 w-72'>View Range</button>
                 </p>
                 </div>
             </div>

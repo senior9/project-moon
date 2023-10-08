@@ -25,10 +25,10 @@ const CommonPart = () => {
 
 <div className="bg-red-400 py-1">
   <div className="marquee-container">
-    <p className="text-xl font-bold">"Exquisite jewelry for every occasion"</p>
-    <p className="text-xl font-bold">"Discover timeless elegance in our collections"</p>
-    <p className="text-xl font-bold">"Luxury and beauty, all in one place"</p>
-    <p className="text-xl font-bold">"Shop now and shine bright like a diamond"</p>
+    <p className="text-xl font-bold">Exquisite jewelry for every occasion</p>
+    <p className="text-xl font-bold">Discover timeless elegance in our collections</p>
+    <p className="text-xl font-bold">Luxury and beauty, all in one place</p>
+    <p className="text-xl font-bold">Shop now and shine bright like a diamond</p>
   </div>
 </div>
 

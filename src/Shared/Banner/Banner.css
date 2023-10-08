@@ -19,3 +19,37 @@
 }
 
 
+.overlay-text {
+    text-align: center;
+    font-size: 24px;
+}
+
+.text-5xl {
+    font-size: 36px;
+}
+
+/* Styles for tablet screens */
+@media (max-width: 768px) {
+    .overlay-text {
+        font-size: 20px;
+    
+    }
+    .text-5xl{
+        color: black;
+    }
+
+    .text-5xl {
+        font-size: 28px;
+    }
+}
+
+/* Styles for mobile screens */
+@media (max-width: 480px) {
+    .overlay-text {
+        font-size: 18px;
+    }
+
+    .text-5xl {
+        font-size: 24px;
+    }
+}
