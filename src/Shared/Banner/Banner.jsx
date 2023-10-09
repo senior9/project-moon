@@ -7,7 +7,7 @@ const Banner = () => {
         <div className='mt-6'>
             
             <img src={banner} alt="" />
-            <div className="text-overlay container flex justify-start align-baseline mx-auto  ">
+            <div className="text-overlay container grid md:grid-cols-2  justify-start align-baseline mx-auto  ">
                 <div className='mt-28'>
                 <p className="overlay-text text-brown-100 text-center">Chowdhurani</p>
                 <p className='text-brown-50 text-5xl text-center font-bold uppercase my-3 leading-relaxed'>The Unpologetic Expression <br /> of you</p>
